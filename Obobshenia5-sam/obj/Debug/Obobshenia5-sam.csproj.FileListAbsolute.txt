@@ -1,0 +1,7 @@
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\Obobshenia5-sam\bin\Debug\Obobshenia5-sam.exe.config
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\Obobshenia5-sam\bin\Debug\Obobshenia5-sam.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\Obobshenia5-sam\bin\Debug\Obobshenia5-sam.pdb
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\Obobshenia5-sam\obj\Debug\Obobshenia5-sam.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\Obobshenia5-sam\obj\Debug\Obobshenia5-sam.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\Obobshenia5-sam\obj\Debug\Obobshenia5-sam.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\Obobshenia5-sam\obj\Debug\Obobshenia5-sam.pdb

@@ -1,0 +1,7 @@
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\Obobshenia2\bin\Debug\Obobshenia2.exe.config
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\Obobshenia2\bin\Debug\Obobshenia2.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\Obobshenia2\bin\Debug\Obobshenia2.pdb
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\Obobshenia2\obj\Debug\Obobshenia2.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\Obobshenia2\obj\Debug\Obobshenia2.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\Obobshenia2\obj\Debug\Obobshenia2.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\Obobshenia2\obj\Debug\Obobshenia2.pdb
