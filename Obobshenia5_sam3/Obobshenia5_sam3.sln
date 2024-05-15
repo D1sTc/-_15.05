@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obobshenia5_sam3", "Obobshenia5_sam3.csproj", "{2DC3889B-BB0A-4C8D-A037-52BA8CF22591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DC3889B-BB0A-4C8D-A037-52BA8CF22591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC3889B-BB0A-4C8D-A037-52BA8CF22591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC3889B-BB0A-4C8D-A037-52BA8CF22591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC3889B-BB0A-4C8D-A037-52BA8CF22591}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1238039-F2A0-483D-BF6C-E3844DE8682C}
+	EndGlobalSection
+EndGlobal
